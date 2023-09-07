@@ -1,5 +1,5 @@
 # Catchpoint
-Catchpoint links for WPO-Foundation repos.
+Catchpoint links for WebPageTest and WPO-Foundation repos.
 
 ## WPO-Foundation repos have moved under [Catchpoint](https://github.com/catchpoint)
 
