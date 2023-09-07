@@ -1,7 +1,7 @@
 # Catchpoint
 Catchpoint links for WebPageTest and WPO-Foundation repos.
 
-## WPO-Foundation repos have moved under [Catchpoint](https://github.com/catchpoint)
+## WebPageTest repos have moved under [Catchpoint](https://github.com/catchpoint)
 
 [WebPageTest](https://github.com/catchpoint/WebPageTest)  
 [Agent](https://github.com/catchpoint/WebPageTest.agent)  
